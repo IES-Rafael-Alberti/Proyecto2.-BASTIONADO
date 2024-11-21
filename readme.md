@@ -28,7 +28,7 @@ Las VLANs permiten segmentar una red física en varias redes lógicas, mejorando
 
 La configuración de los switches de capa 3 es esencial para habilitar el enrutamiento entre las VLANs definidas en la red. Estos switches actúan como routers, permitiendo la comunicación entre diferentes segmentos de red. En esta sección, se detallan los pasos para crear las VLANs, asignar direcciones IP y habilitar el enrutamiento entre ellas, garantizando que los dispositivos en distintas VLANs puedan intercambiar datos de manera efectiva.
 
-1.- Acceder al switch
+1.- Acceder al switch L3
 
 ```bash
 enable
