@@ -10,7 +10,7 @@ La guía proporciona una descripción paso a paso para configurar las VLANs, asi
 
 La topología de red describe la disposición y la interconexión de los dispositivos dentro de una infraestructura de red. En este caso, la red está compuesta por dos switches de capa 3 (SW1 y SW2), que se encargan del enrutamiento entre las diferentes VLANs, y tres switches de capa 2 (SW3, SW4 y SW5), que gestionan el tráfico local dentro de cada VLAN.
 
-![Topología](/img/topologia.png)
+![Topología](/img/topologia.jpg)
 
 
 Las VLANs permiten segmentar una red física en varias redes lógicas, mejorando la seguridad, el rendimiento y la administración. Al separar los dispositivos por función o ubicación, se limita el tráfico de broadcast y se facilita la gestión sin alterar el cableado físico. El diseño de VLANs debe considerar el propósito de cada segmento, el rango de direcciones IP y las máscaras de subred para optimizar la red. Esta segmentación permite una mayor flexibilidad y escalabilidad en la infraestructura de red.
