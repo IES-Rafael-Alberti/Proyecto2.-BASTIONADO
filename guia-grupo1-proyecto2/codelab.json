@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-11-25T13:38:51+01:00",
+  "id": "guia-grupo1-proyecto2",
+  "duration": 0,
+  "title": "",
+  "summary": "Guía creación y configuración de red",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "codelab",
+    "markdown"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "guia-grupo1-proyecto2"
+}
