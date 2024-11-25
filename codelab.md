@@ -1,3 +1,10 @@
+author: Grupo 1
+summary: Guía creación y configuración de red
+id: guia-grupo1-proyecto2
+categories: codelab,markdown
+environments: Web
+status: Published
+
 ## Introducción
 
 Este trabajo se enfoca en la configuración de una red empresarial utilizando equipos Cisco, que incluye la implementación de VLANs y el enrutamiento entre ellas en una infraestructura compuesta por dos switches de capa 3 y tres switches de capa 2. Se busca establecer un esquema de comunicación robusto que permita a las diferentes áreas de la empresa (TIC, RRHH, Marketing, Administración y Servidores) operar de manera eficiente y segura dentro de sus respectivas subredes.
